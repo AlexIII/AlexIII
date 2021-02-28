@@ -80,7 +80,11 @@ A small battery-powered BLE temperature and humidity sensor with Android app.
 </td>
 <td>
 
-
+[<img width="320" src="https://raw.githubusercontent.com/AlexIII/no-mcu-distance-meter/master/photo/dm-pcb-3.jpg" />](https://github.com/AlexIII/no-mcu-distance-meter)
+<br/>
+[**No-MCU Ultrasonic Distance Meter**](https://github.com/AlexIII/no-mcu-distance-meter)
+<br/>
+Schematic and PCB for a Distance Meter that uses no MCU, just standard logic ICs.
 
 </td>
 </tr>

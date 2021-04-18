@@ -71,7 +71,7 @@ Clone of T-rex game from Chrome browser rewritten for Arduino
 <tr>
 <td>
   
-[<img width="60" src="https://raw.githubusercontent.com/AlexIII/weather-node/master/img/wns-icon.png" />](https://github.com/AlexIII/weather-node)
+[<img width="260" src="https://raw.githubusercontent.com/AlexIII/weather-node/master/img/wns-screen.png" />](https://github.com/AlexIII/weather-node)
 <br/>
 [**Weather Node**](https://github.com/AlexIII/weather-node)
 <br/>

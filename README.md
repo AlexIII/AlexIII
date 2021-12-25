@@ -4,7 +4,7 @@ Do you like making things? I'm sure you do! And me too!
 
 Take a look at my projects, maybe you'll find something interesting.
 
-Here, I even made this neat table so you don't need to scroll through my trash-y repository list 😅.
+Here, I even made this neat list so you don't need to scroll through my trash-y repository list 😅.
 
 <table>
 <tr>
@@ -88,7 +88,28 @@ Schematic and PCB for a Distance Meter that uses no MCU, just standard logic ICs
 
 </td>
 </tr>
+
   
+  
+  
+  
+<tr>
+<td>
+  
+[<img width="320" src="https://github.com/AlexIII/tcc-g15/blob/master/screen-1.png" />](https://github.com/AlexIII/tcc-g15)
+<br/>
+[**Thermal Control Center**](https://github.com/AlexIII/tcc-g15)
+<br/>
+An open source alternative to AWCC 
+
+</td>
+<td>
+ 
+ 
+
+</td>
+</tr>
+    
   
   
   

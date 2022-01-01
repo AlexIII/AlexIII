@@ -96,7 +96,7 @@ Schematic and PCB for a Distance Meter that uses no MCU, just standard logic ICs
 <tr>
 <td>
   
-[**Whoosh**](https://github.com/AlexIII/tcc-g15)
+[**Whoosh**](https://github.com/AlexIII/whoosh)
 <br/>
 Minimalistic React state manager
 

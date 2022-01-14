@@ -95,7 +95,9 @@ Schematic and PCB for a Distance Meter that uses no MCU, just standard logic ICs
   
 <tr>
 <td>
-  
+
+[<img width="110" src="https://raw.githubusercontent.com/AlexIII/whoosh/main/whoosh-logo.png" />](https://github.com/AlexIII/whoosh)
+<br/>
 [**Whoosh**](https://github.com/AlexIII/whoosh)
 <br/>
 Minimalistic React state manager

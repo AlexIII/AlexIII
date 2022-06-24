@@ -1,10 +1,13 @@
 ## Hi there!
-
+  
 Do you like making things? I'm sure you do! And me too!
 
 Take a look at my projects, maybe you'll find something interesting.
 
 Here, I even made this neat list so you don't need to scroll through my trash-y repository list 😅.
+
+  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexIII&show_icons=true)
 
 <table>
 <tr>
@@ -249,5 +252,3 @@ A windows tool that allows your PC to become a Wi-Fi access point when there's n
 </table>
 
 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexIII&show_icons=true)  

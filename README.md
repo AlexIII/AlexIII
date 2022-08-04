@@ -159,6 +159,27 @@ A single-page web audio converter that converts any audio file into an uncompres
 
 </td>
 </tr>
+    
+  
+  
+  
+<tr>
+<td>
+  
+[<img width="320" src="https://raw.githubusercontent.com/AlexIII/faovo-app/master/img/aovo-app-screen.jpg" />](https://github.com/AlexIII/faovo-app)
+<br/>
+[**Faovo**](https://github.com/AlexIII/faovo-app)
+<br/>
+A web-app for the Fake AOVO Pro M1 Scooter.
+[Try it here!](https://alexiii.github.io/faovo-app/)
+
+</td>
+<td>
+ 
+ 
+
+</td>
+</tr>
   
   
   

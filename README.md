@@ -166,7 +166,7 @@ A single-page web audio converter that converts any audio file into an uncompres
 <tr>
 <td>
   
-[<img width="320" src="https://raw.githubusercontent.com/AlexIII/faovo-app/master/img/screenshot-1.jpg" />](https://github.com/AlexIII/faovo-app)
+[<img width="320" src="https://raw.githubusercontent.com/AlexIII/faovo-app/master/img/screen-1.jpg" />](https://github.com/AlexIII/faovo-app)
 <br/>
 [**Faovo**](https://github.com/AlexIII/faovo-app)
 <br/>

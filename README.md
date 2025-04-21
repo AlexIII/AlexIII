@@ -134,13 +134,15 @@ Redirect Messages to Telegram via Webhook
 </td>
 <td>
  
- 
+[**List of video games I liked**](https://github.com/AlexIII/video-game-list)
+
+Just a list of video games I played and enjoyed.
 
 </td>
 </tr>
 
   
-  
+ 
   
   
 <tr>

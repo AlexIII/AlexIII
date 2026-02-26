@@ -6,7 +6,7 @@ Take a look at my projects, maybe you'll find something interesting.
 
 Here, I even made this neat list so you don't need to scroll through my trash-y repository list 😅.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexIII&show_icons=true&theme=radical)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=AlexIII&show_icons=true&theme=radical&custom_title=AlexIII's+Stats&disable_animations=true&number_format=long&include_all_commits=true&rank_icon=github)
 
 <table>
 <tr>

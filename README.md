@@ -161,6 +161,27 @@ An open source alternative to AWCC
 
 </td>
 </tr>
+
+  
+ 
+  
+  
+<tr>
+<td>
+  
+[<img width="150" src="https://github.com/AlexIII/exp-tg-bot/blob/master/expenses_bot_logo.png" />](https://github.com/AlexIII/exp-tg-bot)
+<br/>
+[**Expenses Tracker Telegram Bot**](https://github.com/AlexIII/exp-tg-bot)
+<br/>
+A Telegram bot for personal expense tracking, written in [Gleam](https://gleam.run).
+
+</td>
+<td>
+ 
+ 
+
+</td>
+</tr>
     
   
   

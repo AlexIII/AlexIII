@@ -1,6 +1,6 @@
 ## Hi there!
   
-Do you like making things? I'm sure you do! And me too!
+Do you like making things? I'm sure you do! Me too!
 
 Take a look at my projects, maybe you'll find something interesting.
 
@@ -136,7 +136,7 @@ Redirect Messages to Telegram via Webhook
   
 ### 🎮
  
-[**List of video games I liked**](https://github.com/AlexIII/video-game-list)
+[**List of video games**](https://github.com/AlexIII/video-game-list)
 
 Just a list of video games I played and enjoyed.
 
